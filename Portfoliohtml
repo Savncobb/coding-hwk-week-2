@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="portfoliocss" href="portfoliocss">
+  <title></title>
+</head>
+<body>
+  <header class= "navigation">
+  <div class= "inline-Block logo">
+     <img src=>
+    </div>
+    <nav class="inline-block">
+        <ul>
+          <li class="inline-block"> About</li>
+          <li class="inline-block"> Skills</li>
+          <li class="inline-block"> Work</li>
+          <li class="inline-block"> Contact</li>
+      </ul>
+    </nav>
+  </header>
+  <section class="heroImg>"
+           <div class="content">
+            <img src=>
+  <p> This is a blurb about myself.</p>
+  <button type= "button">Download Resume</button>
+  </div>
+  </section>
+<footer>
+  <ul>
+      <li class="inline-block"> About</li>
+          <li class="inline-block"> Skills</li>
+          <li class="inline-block"> Work</li>
+          <li class="inline-block"> Contact</li>
+      </ul>
+</footer>
+</body>
+</html>
